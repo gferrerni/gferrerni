@@ -19,6 +19,7 @@
 
 <p>
 <img width="100%" align="left" alt="gferrerni's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gferrerni&theme=nightowl&show_icons=true&hide_border=true" /></p>
-<p align="center">
+<div style="text-align: center;">
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guillermo-f-21035848)
-</p>
+</div>
+
