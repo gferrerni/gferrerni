@@ -1,4 +1,10 @@
-# I'm Guillermo Ferrer <img src="https://raw.githubusercontent.com/fonttools/region-flags/gh-pages/svg/ES-AR.svg" width="30px"> <img src="https://raw.githubusercontent.com/fonttools/region-flags/gh-pages/svg/ES-CT.svg" width="30px"> <img src="https://raw.githubusercontent.com/fonttools/region-flags/gh-pages/svg/ES-CN.svg" width="30px">
+# I'm Gferrerni <img src="https://raw.githubusercontent.com/fonttools/region-flags/gh-pages/svg/ES-AR.svg" width="30px"> <img src="https://raw.githubusercontent.com/fonttools/region-flags/gh-pages/svg/ES-CT.svg" width="30px"> <img src="https://raw.githubusercontent.com/fonttools/region-flags/gh-pages/svg/ES-CN.svg" width="30px">
+<details>
+    <summary><b>✨Sobre mi</b></summary><br/>
+    Soy un chico sordo de nacimiento que a veces se olvida de la sordera y que puede con todo tipo de retos y desafíos. Aprendi que la sordera es una ganancia porque aprendi a ser más resolutivo, pensamiento lateral, etc...
+</details>
+
+
 
 - 🌱 I’m comfortable in C# and Python.
 - ![Profile views](https://gpvc.arturio.dev/gferrerni)
@@ -13,6 +19,6 @@
 
 <p>
 <img width="100%" align="left" alt="gferrerni's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gferrerni&theme=nightowl&show_icons=true&hide_border=true" /></p>
-
+<center>
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/guillermo-f-21035848)
-
+</center>
